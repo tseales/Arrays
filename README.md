@@ -1,1 +1,2 @@
 # Arrays
+The purpose of this program was to write a code that took values from the user and entered it into two arrays. The program also sorted the numbers in the first array from small to big, and the second array from big to small. After doing that, the program will find the averages of both the arrays and find the maximum and minimum of each array. After the program finds all of the aforementioned things, it will output each of the arrays onto the screen.
